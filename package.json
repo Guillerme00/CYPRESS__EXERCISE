@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "cypress": "^15.7.0"
+  },
+  "name": "cypress_exercise",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cypress": "cypress open"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
